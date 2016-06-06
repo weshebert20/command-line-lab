@@ -13,7 +13,7 @@ Developing web apps requires a degree of comfort navigating and interacting with
 
 For this lab, you're going to create files and folders to organize your favorite books, movies, and music - then, you're going to reorganize them.
 
-Be sure to use the cheatsheets in the "Additional Resources" section in case you get stuck.
+Be sure to use the cheatsheets in the "Additional Resources" section at the bottom of this page in case you get stuck.
 
 > ***Note:*** _The specific authors, bands and names here are just examples -- use your own favorites! Seriously!_
 
