@@ -90,7 +90,7 @@ Add your `my-favorite-things` directory to your own fork of this repo and push i
 
 - Click 'Fork' on this github page. You will be redirected to your fork
 - Clone the repo to your local machine by copying the url to the repo, and..
-- enter `git clone https://github.com/wdi-29/THE-REPO-NAME.git` (only with the real url)
+- enter `git clone https://github.com/YourUser/THE-REPO-NAME.git` (only with the real repo name and username)
 - Make your changes
 - `git add -A`
 - `git commit -m "some commit message"`
