@@ -125,3 +125,7 @@ Here's a look at what your files/folders should look like after each big step in
 
 - A list of [CLI Shortcuts](https://gist.github.com/alexpchin/01caa027b825d5f98871)
 - An awesome Unix command [cheatsheet](https://github.com/veltman/clmystery/blob/master/cheatsheet.md)
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
