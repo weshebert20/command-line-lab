@@ -96,7 +96,7 @@ Add your `my-favorite-things` directory to your own fork of this repo and push i
 - `git commit -m "some commit message"`
 - `git push origin master`
 
-You can open up your "my-favorite-things" directory in Sublime/Atom, to track your progress. You can also use `tree`.
+You can open up your "my-favorite-things" directory in Sublime/Atom, to track your progress.
 
 Here's a look at what your files/folders should look like after each big step in the exercise:
 
