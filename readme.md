@@ -18,7 +18,7 @@ Be sure to use the cheatsheets in the "Additional Resources" section at the bott
 
 #### Requirements
 
-- From your root directory, create a folder called "my-favorite-things"; you'll use that folder to do the exercises below
+- From your WDI working directory, create a folder called "my-favorite-things"; you'll use that folder to do the exercises below
 
 - Organize your favorite books
 
